@@ -1,0 +1,4 @@
+automate errorClima {
+    monitorear temperatura cada 5 min
+    imprimir "Hola" cada 5 min;
+}

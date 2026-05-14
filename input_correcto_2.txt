@@ -1,0 +1,4 @@
+automate sistemaHumedad {
+    monitorear humedad cada 10 min;
+    cuando humedad sube de 80 hacer activar riego;
+}

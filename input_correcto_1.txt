@@ -1,0 +1,5 @@
+automate miClima {
+    monitorear temperatura cada 5 min;
+    imprimir "Frio" cada 5 min;
+    cuando humedad sube de 80 hacer activar ventilacion;
+}
